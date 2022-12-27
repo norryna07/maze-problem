@@ -1,0 +1,52 @@
+window {
+    background-color: rgb(245, 216, 178);
+}
+
+button {
+    background-image: none;
+    background-color: rgb(104, 24, 17);
+    color:rgb(131, 207, 211);
+    font-family: DejaVu Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+grid {
+    background-color: rgb(245, 216, 178);
+    border-style: solid;
+    border-color: antiquewhite;
+    border-width: 10px;
+}
+
+#Cheese {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+#Mouse {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+#Wall {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+#Find {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+#Run {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+#Pass {
+    background-color: rgb(10, 166, 111);
+}
+
+#Process {
+    background-color: rgb(214, 116, 183);
+}
+
+#Pass_process {
+    background-color: rgb(10, 166, 111);
+}
