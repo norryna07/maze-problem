@@ -1,4 +1,4 @@
-maze problem
+Maze problem
 
 The program needs a txt file with informations about maze:
 
