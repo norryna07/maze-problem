@@ -6,7 +6,7 @@
 * [Setup](#setup)
 
 
-## General information
+## General info
 
 The program needs a txt file with informations about maze:
 
