@@ -3,7 +3,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
+* [Installation](#installation)
 
 
 ## General info
@@ -36,6 +36,19 @@ Project is write in:
 * GTK library for C 
 * CSS for styling the application
 
-## Setup
-For running this project you need to have the GTK library on linux.
-In case you don't have that can use the executable file on linux.
+## Installation
+1. Clone the project
+
+2. Install GTK library
+
+```bash
+sudo apt-get install libgtk-3-dev
+```
+
+3. Add the matrix file
+
+4. Run the `main.c` file
+
+```bash
+gcc `pkg-config --cflags gtk+-3.0` -o main main.c `pkg-config --libs gtk+-3.0`
+```
